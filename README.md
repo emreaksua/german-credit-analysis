@@ -89,65 +89,77 @@ Most clients are between 25 and 40 years old.
   <img src="images/age_distribution.png" width="600">
 </p>
 
-
-![Age Distribution](images/age_distribution.png)
-
 ---
 
 ## **Credit Amount Distribution**
 Credit amounts are heavily right-skewed with many small loans and a few very large ones.
 
-![Credit Amount Distribution](images/credit_amount_distribution.png)
+<p align="center">
+  <img src="images/credit_amount_distribution.png" width="600">
+</p>
 
 ---
 
 ## **Age vs Credit Amount**
 Borrowers of all ages take both small and medium-sized loans. The highest amounts tend to occur in mid-adulthood.
 
-![Age vs Credit Amount](images/age_credit_distribution.png)
+<p align="center">
+  <img src="images/age_credit_distribution.png" width="600">
+</p>
 
 ---
 
 ## **Average Credit Amount by Housing Type**
 Homeowners take noticeably larger loans on average.
 
-![Average Credit Amount by Housing](images/average_credit_amount_by_housing.png)
-
+<p align="center">
+  <img src="images/average_credit_amount_by_housing.png" width="600">
+</p>
 ---
 
 ## **Average Credit Amount by Loan Purpose**
 Loan purpose strongly affects loan size.  
 Vacation/others and business loans are the largest on average.
 
-![Average Credit Amount by Loan Purpose](images/average_credit_amount_by_loan_purpose.png)
+<p align="center">
+  <img src="images/average_credit_amount_by_loan_purpose.png" width="600">
+</p>
 
 ---
 
 ## **Credit Amount by Savings Account Level**
 Borrowers with **unknown** or **little** savings take the highest and most variable loans.
 
-![Savings](images/credit_amount_by_savings_account_level.png)
+<p align="center">
+  <img src="images/credit_amount_by_savings_account_level.png" width="600">
+</p>
 
 ---
 
 ## **Credit Amount by Checking Account Level**
 A similar trend: borrowers with unknown checking balances tend to take higher loans.
 
-![Checking](images/credit_amount_by_checking_account_level.png)
+<p align="center">
+  <img src="images/credit_amount_by_checking_account_level.png" width="600">
+</p>
 
 ---
 
 ## **Correlation Heatmap**
 The strongest relationship is between **Duration** and **Credit amount** — longer durations correspond to larger loans.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+<p align="center">
+  <img src="images/correlation_heatmap.png" width="600">
+</p>
 
 ---
 
 ## **Loan Duration Distribution**
 Loan durations commonly fall around 12, 24, and 36 months.
 
-![Loan Duration Distribution](images/loan_duration_distribution.png)
+<p align="center">
+  <img src="images/loan_duration_distribution.png" width="600">
+</p>
 
 ---
 
@@ -160,7 +172,9 @@ Clustering was performed using:
 
 After standardization, three clear clusters emerged:
 
-![Clusters](images/customer_clusters_based_on_age_and_credit.png)
+<p align="center">
+  <img src="images/customer_clusters_based_on_age_and_credit.png" width="600">
+</p>
 
 ### Interpretation:
 
@@ -178,5 +192,6 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
+
 
 
