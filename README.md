@@ -7,29 +7,28 @@ All code is in **`src/financial_analysis.py`**.
 
 ---
 
-## Project Structure
+<h2 align="center">Project Structure</h2>
 
+<pre>
 german-credit-analysis/
-│
 ├── README.md
-│
 ├── src/
-│ └── financial_analysis.py
-│
+│   └── financial_analysis.py
 ├── data/
-│ └── german_credit_data.csv
-│
+│   └── german_credit_data.csv
 └── images/
-├── age_credit_distribution.png
-├── age_distribution.png
-├── average_credit_amount_by_housing.png
-├── average_credit_amount_by_loan_purpose.png
-├── correlation_heatmap.png
-├── credit_amount_by_checking_account_level.png
-├── credit_amount_by_savings_account_level.png
-├── credit_amount_distribution.png
-├── customer_clusters_based_on_age_and_credit.png
-└── loan_duration_distribution.png
+    ├── age_credit_distribution.png
+    ├── age_distribution.png
+    ├── average_credit_amount_by_housing.png
+    ├── average_credit_amount_by_loan_purpose.png
+    ├── correlation_heatmap.png
+    ├── credit_amount_by_checking_account_level.png
+    ├── credit_amount_by_savings_account_level.png
+    ├── credit_amount_distribution.png
+    ├── customer_clusters_based_on_age_and_credit.png
+    └── loan_duration_distribution.png
+</pre>
+
 
 
 ---
@@ -210,6 +209,7 @@ python src/financial_analysis.py
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/emreaksuecon/)
 
 ---
+
 
 
 
