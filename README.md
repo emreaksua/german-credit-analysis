@@ -85,6 +85,11 @@ Full details are in the code file.
 ## **Age Distribution**
 Most clients are between 25 and 40 years old.
 
+<p align="center">
+  <img src="images/age_distribution.png" width="600">
+</p>
+
+
 ![Age Distribution](images/age_distribution.png)
 
 ---
@@ -173,4 +178,5 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
+
 
