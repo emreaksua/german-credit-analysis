@@ -202,20 +202,6 @@ python src/financial_analysis.py
 
 ---
 
-# Author
-Emre Aksu 
-GitHub: https://github.com/emreaksua/ 
-LinkedIn: https://www.linkedin.com/in/emreaksuecon/
-
-
-<h2 align="center">Author</h2>
-
-<p align="center">
-  <strong>Emre Aksu</strong><br>
-  <a href="https://github.com/emreaksua">GitHub</a> |
-  <a href="https://www.linkedin.com/in/emreaksuecon/">LinkedIn</a>
-</p>
-
 ## Author
 
 **Emre Aksu**
@@ -223,12 +209,7 @@ LinkedIn: https://www.linkedin.com/in/emreaksuecon/
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/emreaksua)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/emreaksuecon/)
 
-## Author
-
-**Emre Aksu**  
-[GitHub](https://github.com/emreaksua) • [LinkedIn](https://www.linkedin.com/in/emreaksuecon/)
-
-
 ---
+
 
 
