@@ -7,7 +7,7 @@ All code is in **`src/financial_analysis.py`**.
 
 ---
 
-<h2 align="center">Project Structure</h2>
+## Project Structure
 
 <pre>
 german-credit-analysis/
@@ -209,6 +209,7 @@ python src/financial_analysis.py
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/emreaksuecon/)
 
 ---
+
 
 
 
