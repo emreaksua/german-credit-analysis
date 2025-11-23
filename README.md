@@ -1,7 +1,7 @@
-# German Credit Data – Exploratory Financial Analysis
+# German Credit Data: Exploratory Financial Analysis
 
-This project explores the German Credit dataset and examines how age, financial account status, housing type, and loan purpose relate to credit amounts.  
-The goal is to practice data cleaning, visualization, and simple clustering in Python.
+In this project, I explore the German Credit dataset and examines how age, financial account status, housing type, and loan purpose relate to credit amounts.  
+My goal is to practice data cleaning, visualization, and simple clustering in Python.
 
 All code is in **`src/financial_analysis.py`**.
 
@@ -209,6 +209,7 @@ python src/financial_analysis.py
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/emreaksuecon/)
 
 ---
+
 
 
 
