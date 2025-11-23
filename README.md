@@ -192,6 +192,20 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
+```
 
+Run the script:
 
+```bash
+python src/financial_analysis.py
+```
+
+---
+
+# Author
+Emre Aksu 
+GitHub: https://github.com/emreaksua/ 
+LinkedIn: https://www.linkedin.com/in/emreaksuecon/
+
+---
 
